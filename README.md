@@ -1,6 +1,10 @@
 This was a two part assignment, where we designed a mini programming language based off the rules we learned in the class about syntax and grammar, and then using a high-level programming language,
 wrote a parser for any given statements
+
+
 This the mini Programming Language I designed for this project:
+
+
 assignment = (“asg” variable value);
 incrementation = (“++” variable)
 conditional = (“>?” variable variable) | (“<?” variable variable) | (“=?” variable variable) | ( “=/?” variable  variable) | (=? (variable variable) ;
